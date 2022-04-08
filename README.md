@@ -2,7 +2,7 @@
 <h4 align="center">React Native & Expo & Firebase</h4>
 
 <div align="center">
-  <img src = 'https://signal.org/assets/header/logo-f7ef605fe417d5520d38d546b3b774b4261c75220b9904da4d8b2ffc19a761ff.png' width='250' />
+  <img src = 'https://png.pngtree.com/png-clipart/20210309/original/pngtree-signal-icon-logo-design-png-png-image_5870317.jpg' width='250' />
 </div>
 
 <br/>
